@@ -1,0 +1,3 @@
+[submodule "YouAreWhatYouEat/Assets/CoreModules"]
+	path = YouAreWhatYouEat/Assets/CoreModules
+	url = https://github.com/omgitstri/CoreModules
